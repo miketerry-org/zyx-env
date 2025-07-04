@@ -11,7 +11,9 @@
     "test": "jest --bail"
   },
   "dependencies": {
-    "topsecret": "^0.10.3"
+    "topsecret": "^0.10.3",
+    "zyx-schema": "^0.20.2",
+    "zyx-system": "^0.20.0"
   },
   "repository": {
     "type": "git",
