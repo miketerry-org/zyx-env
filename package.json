@@ -1,6 +1,6 @@
 {
   "name": "zyx-env",
-  "version": "0.20.0",
+  "version": "0.21.0",
   "description": "Implements routines  to work with encrypted environment variable files",
   "main": "index.js",
   "scripts": {
