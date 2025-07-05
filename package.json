@@ -1,6 +1,6 @@
 {
   "name": "zyx-env",
-  "version": "0.21.0",
+  "version": "0.21.1",
   "description": "Implements routines  to work with encrypted environment variable files",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
     "test": "jest --bail"
   },
   "dependencies": {
-    "topsecret": "^0.10.3",
-    "zyx-schema": "^0.20.2",
-    "zyx-system": "^0.20.0"
+    "topsecret": "^0.11.0",
+    "zyx-schema": "^0.20.3",
+    "zyx-system": "^0.20.1"
   },
   "repository": {
     "type": "git",
